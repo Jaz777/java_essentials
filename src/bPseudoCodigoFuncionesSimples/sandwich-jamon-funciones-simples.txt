@@ -1,22 +1,47 @@
 hacerPan() {
-
+	Plantar el trigo
+	Cuidar la siembra
+	Cosechar el trigo
+	Hacer harina
+	AÒadir agua y levadura
+	Hornear el Pan
 }
 
 hacerJamon() {
+	Hacer el Jamon
+	Criar los cerdos
+	Sacrificar los Cerdos
 
 }
-hacerCrema() {
 
+hacerCrema() {
+	Hacer la crema
+	OrdeÒar la vaca
 }
 
 conseguirLechuga() {
-
+Plantar la lechuga
+Cuidar la siembra
+Cosechar la lechuga
 }
 
 conseguirTomate() {
-
+Plantar el tomate
+Cuidar la siembra
+Cosechar el tomate
 }
 
 prepararSandwich() {
-
+Cortar el pan
+Tomar dos rebanadas
+Encontrar el cuchillo
+Aplicar la crema
+Limpiar el cuchillo
+Lavar lechuga y tomate
+Cortar lechuga y tomate
+Poner una rebanada de jam√≥n
+Poner segundo pan encima
+Encontrar plato
+Poner s√°ndwich en plato
+Comer
 }
